@@ -368,3 +368,5 @@ FodyWeavers.xsd
 
 
 /habit-tracker.db
+/HabitLogger.csproj
+/HabitLogger.sln
